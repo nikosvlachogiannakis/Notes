@@ -123,7 +123,7 @@ Hi username!You've successfully authenticated, but GitHub does not provide shell
 
 # Additional Information
 
-SSH (Secure Shell) is a cryptographic network protocol that allows you to securely connect to remote computers or servers over an unsecured network. It's commonly used for accessing and managing servers, transferring files, and authenticating with services like GitHub. SSH works by using a key pair: a private key stored on your device and a public key shared with the remote service. When you connect, SSH verifies your identity using these keys, ensuring encrypted, secure communication without needing to send passwords.
+**SSH** (Secure Shell) is a cryptographic network protocol that allows you to securely connect to remote computers or servers over an unsecured network. It's commonly used for accessing and managing servers, transferring files, and authenticating with services like GitHub. SSH works by using a key pair: a private key stored on your device and a public key shared with the remote service. When you connect, SSH verifies your identity using these keys, ensuring encrypted, secure communication without needing to send passwords.
 
 ---
 
