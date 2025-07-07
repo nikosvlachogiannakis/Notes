@@ -94,7 +94,7 @@ So, we use:
 <pre><code class="language-python" data-trim>
 git add (all files on red separated by comma)
 </code></pre>
-"""OR"""
+**OR**
 <pre><code class="language-python" data-trim>
 git add .
 </code></pre>
